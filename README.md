@@ -7,7 +7,6 @@ afkortingen / abbreviation used within Amsterdam goverment and Datapunt.
 - BGT - Basiskaart grootschalige topografie
 - BBGA - Basis Bestand Getallen Amsterdam
 
-- Nummeraanduiding - Ambetenaars voor adres
+- Nummeraanduiding - Ambtenaars voor adres
 - VAO - Veilige Analyse Omgeving
-- SIA Signalen Informatie systeem Amsterdam ( MORA)
-- Mora Meldigen Openbare Ruimte Amsterdam.
+- HIOR - Handboek Inrichting Openbare Ruimte
